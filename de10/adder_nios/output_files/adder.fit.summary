@@ -1,0 +1,20 @@
+Fitter Status : Successful - Thu Apr 11 10:44:22 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : adder
+Top-level Entity Name : adder
+Family : Cyclone V
+Device : 5CSEBA6U23I7
+Timing Models : Final
+Logic utilization (in ALMs) : 1,167 / 41,910 ( 3 % )
+Total registers : 1754
+Total pins : 2 / 314 ( < 1 % )
+Total virtual pins : 0
+Total block memory bits : 192,992 / 5,662,720 ( 3 % )
+Total RAM Blocks : 29 / 553 ( 5 % )
+Total DSP Blocks : 3 / 112 ( 3 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0 / 6 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )

@@ -1,0 +1,20 @@
+Fitter Status : Successful - Mon Apr  8 21:36:03 2024
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : nios
+Top-level Entity Name : nios
+Family : Cyclone V
+Device : 5CSEBA6U23I7
+Timing Models : Final
+Logic utilization (in ALMs) : 1,273 / 41,910 ( 3 % )
+Total registers : 1898
+Total pins : 1 / 314 ( < 1 % )
+Total virtual pins : 0
+Total block memory bits : 95,552 / 5,662,720 ( 2 % )
+Total RAM Blocks : 19 / 553 ( 3 % )
+Total DSP Blocks : 3 / 112 ( 3 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0 / 6 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )

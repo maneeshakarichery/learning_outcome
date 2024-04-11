@@ -1,0 +1,10 @@
+vendor_name = ModelSim
+source_file = 1, /home/maneeshakarichery/de10/vid3/and_blk.bdf
+source_file = 1, /home/maneeshakarichery/de10/vid3/Waveform.vwf
+source_file = 1, /home/maneeshakarichery/de10/vid3/Waveform1.vwf
+source_file = 1, /home/maneeshakarichery/de10/vid3/db/and_blk.cbx.xml
+design_name = and_blk
+instance = comp, \c~output , c~output, and_blk, 1
+instance = comp, \b~input , b~input, and_blk, 1
+instance = comp, \a~input , a~input, and_blk, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, and_blk, 1
